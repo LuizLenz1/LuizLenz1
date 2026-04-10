@@ -29,7 +29,7 @@
 ---
 
 ### Contribuições
-![snake animation](https://github.com/luizgustavolenz1/luizgustavolenz1/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/LuizLenz1/LuizLenz1/output/github-contribution-grid-snake.svg)
 
 ---
 
